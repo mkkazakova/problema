@@ -1,6 +1,8 @@
 # problema
 С днём отчисления
 
+https://coveralls.io/repos/github/mkkazakova/lab05/badge.svg?branch=master(Coverage Status)!:https://coveralls.io/github/mkkazakova/lab05?branch=master
+
 # Comand
 Как вставлять команды?
 
