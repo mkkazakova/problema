@@ -1,10 +1,7 @@
 # problema
 С днём отчисления
 
-{<img src="https://coveralls.io/repos/github/mkkazakova/lab05/badge.svg?branch=master" alt="Coverage Status" />}[https://coveralls.io/github/mkkazakova/lab05?branch=master]
-
-
-https://coveralls.io/repos/github/mkkazakova/lab05/badge.svg?branch=master(Coverage Status)!:https://coveralls.io/github/mkkazakova/lab05?branch=master
+[![Coverage Status](https://coveralls.io/repos/github/mkkazakova/lab05/badge.svg)](https://coveralls.io/github/mkkazakova/lab05)
 
 # Comand
 Как вставлять команды?
